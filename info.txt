@@ -1,0 +1,5 @@
+db: beezay_ems
+db: id14601265_beezay_ems
+username: learning_webme
+username: id14601265_learning_webme
+pwd: Database@123
